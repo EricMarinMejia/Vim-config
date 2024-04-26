@@ -28,3 +28,9 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
+
+" Set terminal's output encoding to utf-8
+set encoding=utf-8
+
+" Set file encoding to utf-8
+set fileencoding=utf-8
